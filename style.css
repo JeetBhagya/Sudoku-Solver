@@ -159,19 +159,19 @@
         margin-right: 10px;
     }
     .bl{
-        border-left: 1px solid black;
+        border-left: 2px solid black;
     }
     
     .bb{
-        border-bottom: 1px solid black;
+        border-bottom: 2px solid black;
     }
     
     .br{
-        border-right: 1px solid black;
+        border-right: 2px solid black;
     }
     
     .bt{
-        border-top: 1px solid black;
+        border-top: 2px solid black;
     }
     .box1{
         background-color: #1c5e52;
